@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <title>Basic Banking System</title>
   </head>
-<body> 
+<body class="bg-info"> 
 
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
       <a class="navbar-brand" href="index.php">SPARKS BANK</a>

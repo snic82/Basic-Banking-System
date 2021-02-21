@@ -77,10 +77,10 @@ if(isset($_POST['submit']))
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
-<body>
+<body class="bg-info">
  
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-      <a class="navbar-brand" href="index.php">KODAK BANK</a>
+      <a class="navbar-brand" href="index.php">SPARKS BANK</a>
       <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
@@ -112,7 +112,7 @@ if(isset($_POST['submit']))
             <form method="post" name="tcredit"><br>
         <div>
         <label>Transfer From:</label>
-            <table class="table table-striped table-condensed table-bordered bg-secondary">
+            <table class="table table-striped table-condensed table-bordered bg-light">
                 <tr>
                     <th class="text-center">Name</th>
                     <th class="text-center">Balance</th>

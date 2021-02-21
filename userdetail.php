@@ -12,10 +12,10 @@ include 'config.php';
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
-<body>
+<body class="bg-info">
  
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-      <a class="navbar-brand" href="index.php">KODAK BANK</a>
+      <a class="navbar-brand" href="index.php">SPARKS BANK</a>
       <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
@@ -31,7 +31,7 @@ include 'config.php';
           </div>
 </nav>
 
-	<div class="container">
+	<div class="container bg-light">
         <h2 class="text-center pt-4">ACCOUNT DETAILS</h2>
             <?php
                 include 'config.php';
